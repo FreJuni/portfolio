@@ -3,7 +3,7 @@
 A stunning, minimalist Black & White portfolio showcasing my work as a **Backend-Focused Full-Stack Developer**. Built with an emphasis on clean code, responsive design, and smooth user experiences. 
 
 ## 🌐 Live Demo
-[Link to your live portfolio goes here]
+https://frejuni.github.io/portfolio/
 
 ## ✨ Features
 - **Premium B&W Aesthetic**: High contrast, professional color palette designed for maximum readability.
