@@ -33,8 +33,8 @@ A stunning, minimalist Black & White portfolio showcasing my work as a **Backend
 I'm Tung Suan Kham, a full-stack developer with 1.5+ years of experience specializing in robust backend architectures, API integrations, and scalable database systems using modern tools like Node.js, TypeScript, PostgreSQL, and Prisma.
 
 ## 🤝 Let's Connect
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** [Your Email Address]
+- **LinkedIn:** https://www.linkedin.com/in/tung-suan-kham-95ab0728a/
+- **Email:** mailto:tungsuankham@gmail.com
 
 ---
 *If you like this design, feel free to give it a ⭐ on GitHub!*
